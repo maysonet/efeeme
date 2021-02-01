@@ -15,15 +15,14 @@ module.exports = {
       { name: "About", to: "/about" },
     ],
     links: {
-      facebook: "https://www.facebook.com/",
-      instagram: "https://www.instagram.com/",
-      pinterest: "https://pinterest.com/",
-      twitter: "https://twitter.com/",
+      facebook: "https://www.facebook.com/che.maysonet",
+      instagram: "https://www.instagram.com/efe.eme_/",
+      pinterest: "https://pinterest.com/idea802"
     },
     locale: "en",
-    title: `John Doe`,
-    description: `Photography portfolio of John Doe`,
-    author: `@johndoe`,
+    title: `Efe Eme`,
+    description: `Design Portfolio of Francheska Maysonet`,
+    author: `@efeeme`,
   },
   plugins: [
     `gatsby-plugin-postcss`,

@@ -52,7 +52,6 @@ const AboutPage = ({ data }) => (
         </div>
       </div>
     </div>
-    <Newsletter />
   </Layout>
 )
 
